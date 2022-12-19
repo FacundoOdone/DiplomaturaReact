@@ -1,0 +1,23 @@
+.fotos{
+  width: 500px;
+  margin: auto;
+  height: 500px;
+}
+
+.title{
+  text-decoration-line:underline;
+}
+
+.subtitle{
+  color: red
+}
+body{
+  background-color: antiquewhite;
+}
+
+li{
+  font-size:110%
+}
+p{
+  font-size: 120%;
+}
